@@ -1,1 +1,1 @@
-# truffle-box-NordicEnergy-box
+# Truffle-NordicEnergy-box
