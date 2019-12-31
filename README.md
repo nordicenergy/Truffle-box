@@ -1,3 +1,3 @@
-# Truffle-NordicEnergy-box
+# Nordic Energy Truffle-box
 
-box-img-lg.png
+
